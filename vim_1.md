@@ -27,8 +27,8 @@ Here's some basic shortcuts that are handy for moving around the file:
 
 key|use
 ----|---|
-w|Skip to the next word|
-b|Skip backwards to the last word|
+w|Skip to the next word
+b|Skip backwards to the last word
 e|Jump to the end of this word
 0|Jump the start of the current line
 $|Jump to the end of the current line
