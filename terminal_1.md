@@ -1,4 +1,4 @@
-## Terminal and SSH
+## Terminal Basics
 
 The terminal is a command line interface where you can type and execute various commands. The Terminal is used to complete various tasks, like managing various software, running scripts, and writing code. Proficiency with the terminal is essential to being able to quickly navigate your system and projects. There are a lot of names for the Terminal, including console, shell, and command line, but they all refer to the same thing. For this guide, we will stick with "terminal".
 
