@@ -59,16 +59,16 @@ The real power in vim comes from being able to combine commands. A great way to 
 Here's some common "nouns" in vim:
 
 key|noun
-----|---|
-p|Paragraph|
+----|---
+p|Paragraph
 s|Sentence
 w|Word
-t|XML/HTML tag|
-'|Single quote string|
-"|Double quote string|
-(|A function wrapped in ( |
-{|A function wrapped in { |
-[|A function wrapped in [|
+t|XML/HTML tag
+'|Single quote string
+"|Double quote string
+(|A function wrapped in (
+{|A function wrapped in {
+[|A function wrapped in [
 
 
 This is a little hard to see without some examples, so let's write some.
@@ -80,4 +80,4 @@ Say you wanted to cut some text. You could type `dd` to just cut the entire line
 We've barely scratched the surface here, but hopefully you can start to see why vim is so powerful. If you master vim, you can specify insanely complex commands and fly through your files like a pro. For most of us, knowing the basics of vim will be enough.
 
 ### Recommended Reading
-[This](https://www.youtube.com/watch?v=wlR5gYd6um0) video is an amazing resource for vim. It gives a great overview of how the vim language works. 
+[This](https://www.youtube.com/watch?v=wlR5gYd6um0) video is an amazing resource for vim. It gives a great overview of how the vim language works.
